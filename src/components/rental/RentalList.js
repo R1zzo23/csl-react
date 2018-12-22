@@ -20,7 +20,7 @@ export class RentalList extends React.Component {
   render() {
     return (
       <section id="rentalListing">
-        <h1 className="page-title">Your Home All Around the World</h1>
+        <h1 className="page-title text-center">Your Home for CSL Scouting</h1>
         <div className="row">
           {this.renderRentals()}
         </div>

@@ -10,8 +10,8 @@ export function Header() {
           <a className='nav-item nav-link' href='http://www.championsimleague.com/index.php' target='_blank'>Forums</a>
           <a className='nav-item nav-link' href=''>Draft Classes</a>
           <a className='nav-item nav-link' href=''>Send Scouts</a>
-          <input className='form-control mr-sm-2 bwm-search' type='search' placeholder="Try 'Zion Williamson'" aria-label='Search'></input>
-          <button className='btn btn-outline-success my-2 my-sm-0 btn-bwm-search' type='submit'>Search</button>
+          <input className='form-control mr-sm-2 csl-search' type='search' placeholder="Try 'Zion Williamson'" aria-label='Search'></input>
+          <button className='btn btn-outline-success my-2 my-sm-0 btn-csl-search' type='submit'>Search</button>
         </form>
         <button className='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarNavAltMarkup' aria-controls='navbarNavAltMarkup' aria-expanded='false' aria-label='Toggle navigation'>
           <span className='navbar-toggler-icon'></span>
